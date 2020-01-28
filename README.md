@@ -6,3 +6,7 @@ ___
 For _italics_ , use 1 preceding and trailing underscores.
 For __bold__ use 2 preceding and trailing underscores.
 For ~~strikethrough~~, use 2 preceding and trailing tildes.
+Ordered List:
+1. This is first item
+2. This is second item
+*This is an unordered list item
