@@ -20,3 +20,8 @@ __Unordered List:__
    *  Unordered item B
    
    *  Unordered item C
+   
+   Inline Link:
+   [This is an inline link with title] (https://github.com "GitHub")
+
+
