@@ -3,6 +3,6 @@
 ### This is a H3 or a Header 3. 
 This is a horizontal rule. (use 3 underscores on next line)
 ___
-For _italics_, use 1 preceding and trailing underscores.
-For__bold__ use 2 preceding and trailing underscores.
+For _italics_ , use 1 preceding and trailing underscores.
+For __bold__ use 2 preceding and trailing underscores.
 For ~~strikethrough~~, use 2 preceding and trailing tildes.
