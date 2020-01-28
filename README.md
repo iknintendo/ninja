@@ -27,6 +27,6 @@ __Unordered List:__
    [This is a relative reference link](/README.md "README File")
    
    Image file:
-   ![Octocat] (https://github.githubassets.com/images
+   ![Octocat] (https://github.githubassets.com/images/modules/logos_page/Octocat.png"Octocat")
 
 
