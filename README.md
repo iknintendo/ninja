@@ -1,3 +1,5 @@
 # This is a H1 or a Header 1.
 ## This a H2 or a Header 2.
 ### This is a H3 or a Header 3. 
+This is a horizontal rule. (use 3 underscores on next line)
+___
