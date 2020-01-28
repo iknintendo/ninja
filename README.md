@@ -9,4 +9,11 @@ For ~~strikethrough~~, use 2 preceding and trailing tildes.
 Ordered List:
 1. This is first item
 2. This is second item
-*This is an unordered list item
+*This is an unordered list item.
+3. This is a third item.
+
+__Unordered List:__
+*Unordered item A
+    *Unordered item AA
+*Unordered item B
+*Unordered item C
